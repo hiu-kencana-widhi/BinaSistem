@@ -1,59 +1,176 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A51C30&height=200&section=header" width="100%"/>
+<div align="center">
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+# 🏛️ BINASISTEM
+**Sistem Manajemen E-Learning, Administrasi Akademik & Layanan Keuangan Sekolah Terpadu**
 
-## About Laravel
+[![Laravel](https://img.shields.io/badge/Laravel-12.59-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
+[![PHP](https://img.shields.io/badge/PHP-8.2-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![Design](https://img.shields.io/badge/Aesthetic-Harvard_Formal-A51C30?style=for-the-badge)](/)
+[![Status](https://img.shields.io/badge/Status-Production_Ready-success?style=for-the-badge)](#)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+*Portal Pendidikan Prestisius: Mengintegrasikan Pembelajaran Digital (LMS), Manajemen Civitas Akademika, Evaluasi Hasil Belajar (CBT), serta Transparansi Layanan Keuangan Siswa dalam Satu Ekosistem yang Disiplin dan Profesional.*
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+</div>
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+---
 
-## Learning Laravel
+## 📖 Tentang Proyek
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework. You can also check out [Laravel Learn](https://laravel.com/learn), where you will be guided through building a modern Laravel application.
+**BinaSistem** adalah platform manajemen sekolah elit yang dirancang untuk mengusung standar tata kelola akademik tertinggi. Terinspirasi dari estetika institusi pendidikan dunia, sistem ini menyediakan infrastruktur digital yang kokoh untuk mendukung tiga pilar utama sekolah modern:
+1. **Pusat Pembelajaran Digital (E-Learning Hub)**: Fasilitas distribusi materi (manuscript), penugasan terstruktur, dan ujian berbasis komputer (CBT) yang aman dan akuntabel.
+2. **Manajemen Civitas Terpadu**: Kendali menyeluruh atas data siswa, guru, serta struktur kelas dan kurikulum yang fleksibel namun tetap disiplin.
+3. **Integritas Layanan Keuangan**: Sistem penagihan iuran pendidikan (SPP) otomatis yang terhubung dengan dasbor pemantauan riil untuk meminimalisir kendala administrasi keuangan.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Dengan antarmuka **"Clear Harvard"**, BinaSistem menjamin pengalaman pengguna yang bebas gangguan (*distraction-free*), memprioritaskan tipografi yang elegan, dan navigasi yang sangat stabil di berbagai perangkat.
 
-## Laravel Sponsors
+---
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+## 🎨 Identitas Visual & Filosofi Logo
 
-### Premium Partners
+<div align="center">
+  <img src="public/image/logo-BinaSistem.png" alt="Logo BinaSistem" width="180"/>
+</div>
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+<br>
 
-## Contributing
+Logo resmi **BinaSistem** dirancang untuk mencerminkan warisan nilai akademik yang kekal, keterbukaan ilmu pengetahuan, dan ketegasan sistem digital. Berikut adalah penjabaran makna mendalam di balik identitas visual ini:
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+### 1. Simbolisme Gerbang & Buku (*Arch & Open Book*)
+Identitas visual ini menggabungkan dua elemen fundamental pendidikan:
+- **Buku Terbuka**: Melambangkan sumber pengetahuan yang tidak terbatas, keterbukaan pikiran, dan transparansi dalam proses belajar-mengajar.
+- **Gerbang Lengkung (*Academic Arch*)**: Arsitektur gerbang melambangkan pintu masuk menuju masa depan yang lebih cerah dan transisi dari ketidaktahuan menuju pencerahan intelektual.
 
-## Code of Conduct
+### 2. Pelita Pengetahuan (*The Lamp of Knowledge*)
+Di bagian puncak logo terdapat simbol pelita yang menyala:
+- **Cahaya Ilmu**: Melambangkan bimbingan guru dan visi sekolah dalam menerangi jalan para siswa.
+- **Api Inovasi**: Menunjukkan bahwa meskipun berbasis tradisi, BinaSistem tetap mengusung api teknologi dan inovasi digital yang dinamis.
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+### 3. Filosofi Warna: Harvard Crimson
+Penggunaan warna utama **Crimson (#A51C30)** bukan sekadar pilihan estetika, melainkan pernyataan karakter:
+- **Kekuatan & Martabat**: Crimson mewakili gairah untuk belajar dan keberanian dalam mempertahankan integritas akademik.
+- **Tradisi Elit**: Memberikan kesan institusi yang mapan, prestisius, dan memiliki standar kualitas kelas dunia.
+- **Kejelasan Visual**: Dipadukan dengan warna **Ink (#1E1E1E)** dan **Ivory (#FDFDFB)** untuk menciptakan hierarki visual yang tajam dan profesional.
 
-## Security Vulnerabilities
+---
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+## ✨ Fitur & Modul Utama
 
-## License
+### 👑 1. Command Center (Administrator)
+- **Manajemen Civitas**: Kendali mutlak pendaftaran guru, siswa, dan staf dengan sistem status aktif/non-aktif.
+- **Arsitektur Akademik**: Pengelolaan ruang kelas (Academic Spaces), jurusan (Majors), dan mata pelajaran (Curriculum).
+- **Audit Keuangan**: Pemantauan status pembayaran SPP siswa, generator invoice otomatis, dan ekspor data keuangan terpadu.
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+### 👨‍🏫 2. Faculty Desk (Guru)
+- **Manuscripts Storage**: Distribusi materi pembelajaran dalam berbagai format yang dapat diakses siswa kapan saja.
+- **Evaluasi & Penugasan**: Manajemen tugas harian (Assignments) lengkap dengan fitur penilaian massal dan umpan balik guru.
+- **Examination System (CBT)**: Penyelenggaraan ujian digital dengan bank soal terintegrasi dan sistem penilaian otomatis.
+- **Presensi Digital**: Rekam kehadiran siswa yang tervalidasi oleh sistem.
+
+### 🎒 3. Student Portfolio (Murid)
+- **Academic Progress**: Dasbor pribadi untuk memantau nilai, status tugas, dan capaian pembelajaran.
+- **E-Literature Access**: Perpustakaan digital pribadi untuk mengunduh materi dari fakultas.
+- **Bursary Portal**: Informasi tagihan iuran sekolah (Invoice) yang transparan dan riwayat pembayaran yang terdokumentasi.
+
+### 📱 4. Keunggulan UX & Stabilitas Antarmuka
+- **Persistent Sidebar**: Sistem navigasi cerdas yang mengingat preferensi pengguna (terbuka/tertutup) di seluruh halaman melalui *LocalStorage*.
+- **Icon-Only Mode**: Sidebar yang dapat dikecilkan menjadi ikon saja untuk memberikan ruang kerja maksimal tanpa kehilangan akses navigasi.
+- **Harvard Aesthetic**: Desain bersih tanpa gangguan warna yang berlebihan (*No-Alay Design*), memprioritaskan keterbacaan teks dan kemudahan interaksi.
+
+---
+
+## 🔐 Informasi Kredensial Demo
+
+Gunakan akun demo berikut untuk menjelajahi fungsionalitas sistem di lingkungan lokal:
+
+| Peran Dasbor | Email Akses | Kata Sandi | Kapabilitas Utama |
+| :--- | :---: | :---: | :--- |
+| **Super Administrator** | `admin@sekolah.com` | `password123` | Manajemen penuh sistem, civitas, dan keuangan |
+| **Guru (Faculty)** | `guru1@sekolah.com` | `password123` | Pengelolaan materi, tugas, ujian, dan nilai |
+| **Murid (Student)** | `murid1@sekolah.com` | `password123` | Akses materi, mengerjakan tugas, dan cek tagihan |
+
+---
+
+## 🚀 Panduan Instalasi Lokal
+
+### 1. Kloning & Persiapan
+```bash
+git clone https://github.com/hiu-kencana-widhi/BinaSistem.git
+cd school-management
+composer install
+npm install
+```
+
+### 2. Konfigurasi Lingkungan
+```bash
+cp .env.example .env
+php artisan key:generate
+```
+*Atur koneksi DB di berkas `.env` Anda.*
+
+### 3. Database & Assets
+```bash
+php artisan migrate --seed
+npm run build
+```
+
+### 4. Jalankan Portal
+```bash
+php artisan serve
+```
+*Akses: `http://localhost:8000`*
+
+---
+
+## 🔄 Alur Kerja Sistem (System Workflows)
+
+### A. Alur E-Learning & Evaluasi
+```
+[ Guru: Unggah Materi/Tugas ] ──► [ Notifikasi di Dasbor Siswa ]
+                                            │
+                                  [ Siswa: Mengerjakan & Submit ]
+                                            │
+                                  [ Guru: Memberi Nilai & Catatan ]
+                                            │
+                                  [ Siswa: Lihat Hasil di Portfolio ]
+```
+
+### B. Alur Manajemen Keuangan (SPP)
+```
+[ Admin: Generate Invoices Bulanan ] ──► [ Tagihan Muncul di Dasbor Siswa ]
+                                                 │
+                                     [ Siswa: Melakukan Pembayaran ]
+                                                 │
+                                     [ Admin: Validasi & Update Status ]
+```
+
+---
+
+<br>
+
+<div align="center">
+
+## 📸 GALERI ANTARMUKA & CUPLIKAN LAYAR
+Dokumentasi visual antarmuka BinaSistem yang profesional dan responsif.
+
+</div>
+
+<br>
+
+### 🖥️ Dasbor Utama (Command Center)
+*Tampilan antarmuka manajemen terpusat dengan estetika Harvard yang bersih.*
+
+![Dasbor Utama](public/image/readme/readme-dasboard.png)
+
+---
+
+<div align="center">
+<br>
+
+**Didedikasikan untuk meningkatkan martabat pendidikan melalui tata kelola digital yang disiplin dan transparan.**  
+© Hak Cipta Portal Akademik Terpadu **BinaSistem**.
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A51C30&height=200&section=footer" width="100%"/>
